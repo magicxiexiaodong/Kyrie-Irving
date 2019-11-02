@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Kyrie-Irving.iml" filepath="$PROJECT_DIR$/Kyrie-Irving.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-core-properties/mybatis-core-properties.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-core-properties/mybatis-core-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-proxy-pattern/mybatis-proxy-pattern.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-proxy-pattern/mybatis-proxy-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-simple/mybatis-simple.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-simple/mybatis-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-typehandler/mybatis-typehandler.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-typehandler/mybatis-typehandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-use-proxy/mybatis-use-proxy.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-use-proxy/mybatis-use-proxy.iml" />
     </modules>
   </component>
 </project>

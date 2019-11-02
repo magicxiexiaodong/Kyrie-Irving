@@ -15,6 +15,7 @@
         <module>mybatis-simple</module>
         <module>mybatis-core-properties</module>
         <module>mybatis-typehandler</module>
+        <module>mybatis-use-proxy</module>
     </modules>
 
 
